@@ -79,7 +79,7 @@ public class App {
         // System.out.println("The result is " + result);
         // int result = obj.square(num1);
         // System.out.println("the square is "+ result);
-        Test t = new Test();
+        // Test t = new Test();
 
         
         
